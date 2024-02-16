@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+mop-shoot.tauri.hu	TRUE	/	FALSE	1999999999	shootloginredir	deleted
+mop-shoot.tauri.hu	TRUE	/	FALSE	1999999999	tSessionId	77002b60b352f04675bf799d023c836fc6b3f369
+
